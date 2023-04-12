@@ -1,0 +1,31 @@
+/* 메인 콘텐트 */
+#main_content { position: relative; width: 70%; height: 1500px; margin: 0 auto; }
+#All { position: absolute; top: 800px; left: 320px; }
+#All h4 { width: 700px; font-size: 20px; padding-bottom: 5px; border-bottom: solid 5px #dddddd; }
+#All ul { margin-top: 20px; }
+#All li { margin-top: 10px; margin-left: 10px; }
+#All span { display: inline-block; }
+#All span:nth-child(1) { width: 100px; color:rgb(24, 184, 85); font-weight: bold;}
+#All span:nth-child(2) { width: 280px; }
+#All span:nth-child(3) { width: 100px; }
+#All span:nth-child(4) { width: 100px; }
+ 
+
+#notice { position: absolute; top: 500px; left: 320px;  }
+#notice h4 { width: 700px; font-size: 20px; padding-bottom: 5px; border-bottom: solid 5px #dddddd; }
+#notice ul { margin-top: 20px; }
+#notice li { margin-top: 8px; margin-left: 10px; width:700px; }
+#notice span { display: inline-block;  }
+#notice span:nth-child(1) { width: 100px; color:rgb(243, 73, 30); font-weight: bold; }
+#notice span:nth-child(2) {  width: 280px;  }
+#notice span:nth-child(3) { width: 100px; }
+#notice span:nth-child(4) { width: 100px; }
+
+#best { position: absolute; top: 650px; left: 400px;  }
+#best h4 { width: 1120px; font-size: 20px; padding-bottom: 5px; border-bottom: solid 5px #dddddd; }
+#best ul { margin-top: 20px; }
+#best li { display: inline-block; width: 210px; margin-top: 8px; margin-left: 10px; }
+#best span { display: inline-block; width: 700px; height: 40px; font-weight: bold; color:rgb(15, 15, 15);   }
+#best span:nth-child(1) { width: 100px; color:rgb(238, 92, 238); font-weight: bold; }
+#best span:nth-child(2) { width: 100px;  color:rgb(231, 79, 168); font-weight: bold; }
+ 
