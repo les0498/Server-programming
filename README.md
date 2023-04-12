@@ -1,7 +1,7 @@
 # Server-programming
 2021-2
 
-<b>1. < 모여봐요 동물의 숲 카페 > - 메인 페이지 화면 <b>
+<b><h1> 1. < 모여봐요 동물의 숲 카페 > - 메인 페이지 화면</h1></b>
 
 
 ![image](https://user-images.githubusercontent.com/92281453/231516635-84c296cf-11a5-42a1-9642-82a1d9e7bb3b.png)
@@ -59,7 +59,7 @@
 
 <hr>
 
-2. 공지사항 화면 (상단 메뉴바에 있는 공지사항을 눌렀을 때의 화면)
+<b><h1> 2. 공지사항 화면 (상단 메뉴바에 있는 공지사항을 눌렀을 때의 화면) </h1></b>
 
 ![image](https://user-images.githubusercontent.com/92281453/231516894-b88a7b50-ead4-49aa-97ed-2ef8026e38a8.png)
 
@@ -88,7 +88,7 @@
 
 <hr>
 
-3. 인기글 화면 (상단 메뉴바에 있는 인기글을 눌렀을 때의 화면) (best_list.php) 
+<b><h1> 3. 인기글 화면 (상단 메뉴바에 있는 인기글을 눌렀을 때의 화면) (best_list.php)  </h1></b>
 
 ![image](https://user-images.githubusercontent.com/92281453/231516972-8e1cede9-a9df-4ce1-8c9c-a6a295d6eb63.png)
 
@@ -101,7 +101,7 @@
 
 <hr>
 
-4. 자유게시판, 팁게시판, 그림게시판 화면 
+<b><h1> 4. 자유게시판, 팁게시판, 그림게시판 화면 </h1></b>
 
 ![image](https://user-images.githubusercontent.com/92281453/231516996-433f1472-04f1-46dd-bb42-0d161c88e4d7.png)
 
@@ -118,7 +118,7 @@
 <hr>
 
 
-5. 이미지 출력하기 
+<b><h1> 5. 이미지 출력하기 </h1></b>
 
 ![image](https://user-images.githubusercontent.com/92281453/231517093-bd2aaa01-b0ea-4bf4-9f85-315e32472f33.png)
 
@@ -127,7 +127,7 @@
 <hr>
 
 
-6. 공감 기능 
+<b><h1> 6. 공감 기능 </h1></b>
 
 ![image](https://user-images.githubusercontent.com/92281453/231517122-c2ef9f97-d02d-415b-892f-7ffa637f4148.png)
 
@@ -137,5 +137,5 @@
 <hr>
 
 
-7. 창의적 개발 내용 
+<b><h1> 7. 창의적 개발 내용 </h1></b>
 : 사이드 메뉴바 기능과 메인페이지 인기글에 글을 작성할 때, 첨부한 사진이 출력되도록 하여 시각적으로 보기 편하게 만든 기능, 카테고리 옵션을 만들어 카테고리 옵션을 설정한 대로 게시판에 출력되도록 한 기능, 공지사항은 관리자만 가능하도록 한 기능들이 창의적으로 개발한 내용이라고 볼 수 있습니다. 
