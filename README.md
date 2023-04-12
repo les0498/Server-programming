@@ -15,7 +15,8 @@
 :  상단 메뉴바의 목록을 기존 사이트에 있던 home 목록 이외의 공지사항, 인기글, 전체글, 자유게시판, 팁 게시판, 그림 게시판을 추가하여 총 7개로 구성했다. 
 
 ● 메인페이지 사진 
-:  모여봐요 동물의 숲 게임의 이미지 사진을 가운데에 추가해줬다. 
+:  모여봐요 동물의 숲 게임의 이미지 사진을 가운데에 추가해줬다.
+
 
 ● 인기글 (main.php)
 ![image](https://user-images.githubusercontent.com/92281453/231516728-3ddb7c94-857f-4a7d-91cf-4965565ee2a0.png)
@@ -34,12 +35,15 @@
 
 :  작성한 글들의 전체 글들이 뜨도록 만들었고, 10개의 최신 글만 보이도록 설정했으며, 글마다 설정한 카테고리 옵션들이 맨 앞에 뜨도록 만들어줬다. 
 ● 사이드 메뉴바 (sidebar.php) 
+
 ![image](https://user-images.githubusercontent.com/92281453/231516805-0c9935e5-1804-44a8-b5ff-af4dc6b9c741.png) ![image](https://user-images.githubusercontent.com/92281453/231516855-5e425d30-7bdd-40f1-b74f-69fefd4d4c4b.png)
 
  
 : 화면을 내리거나 올려도 옆에 고정된 상태로 있도록 만들어줬고, 로그인을 했을 때의 회원 정보(회원이름, 레벨, 포인트)를 출력되도록 만들어줬다. 로그아웃 했을 때는 값이 입력되지 않은 상태로 되도록 만들어줬다. 사이드 메뉴바의 목록은 전체메뉴, home, 글쓰기, 공지사항, 인기글, 회원정보 수정 형태로 클릭했을 때의 폼으로 넘어가도록 만들어줬다. 
 
+
 3. 공지사항 화면 (상단 메뉴바에 있는 공지사항을 눌렀을 때의 화면)
+
 ![image](https://user-images.githubusercontent.com/92281453/231516894-b88a7b50-ead4-49aa-97ed-2ef8026e38a8.png)
 
 ![image](https://user-images.githubusercontent.com/92281453/231516918-41ded395-e5be-48e5-8c78-5f294b1e3ec9.png)
@@ -48,6 +52,7 @@
 : 공지사항의 form, insert, list, modify_form, modify,view,delete를 bnotice로 새로 만들어 관리하도록 해줬고, 공지사항에서 글쓰기 버튼을 누르게 되면, 관리자 이외의 회원은 못쓰도록 설정해줬다. 
 
 ● [공지] 옵션박스 설정 
+
 ![image](https://user-images.githubusercontent.com/92281453/231516932-a39dac3c-ff8c-4a64-8152-a95bc124db4f.png) ![image](https://user-images.githubusercontent.com/92281453/231516942-c33b3f2a-8632-4ebd-afe4-9e08e6aad9c1.png)
 
 
@@ -57,6 +62,7 @@
 :  전체글에서 카테고리 옵션을 [공지]로 설정한 글들만 출력되도록 $sql"select * from board where category = '[공지]' order by num desc"; 작성해줬다. 
 
 4. 인기글 화면 (상단 메뉴바에 있는 인기글을 눌렀을 때의 화면) (best_list.php) 
+
 ![image](https://user-images.githubusercontent.com/92281453/231516972-8e1cede9-a9df-4ce1-8c9c-a6a295d6eb63.png)
 
 
@@ -67,6 +73,7 @@
 
 
 5. 자유게시판, 팁게시판, 그림게시판 화면 
+
 ![image](https://user-images.githubusercontent.com/92281453/231516996-433f1472-04f1-46dd-bb42-0d161c88e4d7.png)
 
 ![image](https://user-images.githubusercontent.com/92281453/231517013-48eb993c-77aa-49fd-9fc7-842543dfabed.png)
@@ -83,11 +90,13 @@
 
 
 6. 이미지 출력하기 
+
 ![image](https://user-images.githubusercontent.com/92281453/231517093-bd2aaa01-b0ea-4bf4-9f85-315e32472f33.png)
 
 : 글을 작성할 때 첨부파일을 넣고 글을 올리게 되면 첨부한 사진이 글 내용에 출력되도록 코드를 작성해 나타내줬다. 
 
 7. 공감 기능 
+
 ![image](https://user-images.githubusercontent.com/92281453/231517122-c2ef9f97-d02d-415b-892f-7ffa637f4148.png)
 
 
