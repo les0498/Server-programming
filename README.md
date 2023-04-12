@@ -1,7 +1,7 @@
 # Server-programming
 2021-2
 
-1. < 모여봐요 동물의 숲 카페 > - 메인 페이지 화면 
+<b>1. < 모여봐요 동물의 숲 카페 > - 메인 페이지 화면 <b>
 
 
 ![image](https://user-images.githubusercontent.com/92281453/231516635-84c296cf-11a5-42a1-9642-82a1d9e7bb3b.png)
