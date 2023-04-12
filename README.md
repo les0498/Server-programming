@@ -19,21 +19,27 @@
 
 
 ● 인기글 (main.php)
+
 ![image](https://user-images.githubusercontent.com/92281453/231516728-3ddb7c94-857f-4a7d-91cf-4965565ee2a0.png)
 
 
 : 조회수가 10이상이 넘은 글들만 인기글에 보여지도록 했고, 상위 5위 글들만 출력되도록 했다. 또한 글을 작성했을 때, 첨부한 사진이 출력되도록 함과 동시에 설정한 카테고리, 제목 등이 같이 보여주도록 만들어줬다. 
  
 ● 공지사항 (main.php)
+
 ![image](https://user-images.githubusercontent.com/92281453/231516757-cded291d-8516-44cd-a385-62dac7c5857b.png)
 
 
 : 카테고리 옵션에서 [공지]를 선택해 올린 글들만 뜨도록 만들었고, 5개의 공지글들만 보이도록 설정했으며, [공지] 카테고리가 출력되도록 만들어줬다. 
 
+
 ● 전체글  (main.php)
+
 ![image](https://user-images.githubusercontent.com/92281453/231516785-157a1428-de60-4666-a643-fec3e7567d44.png)
 
+
 :  작성한 글들의 전체 글들이 뜨도록 만들었고, 10개의 최신 글만 보이도록 설정했으며, 글마다 설정한 카테고리 옵션들이 맨 앞에 뜨도록 만들어줬다. 
+
 ● 사이드 메뉴바 (sidebar.php) 
 
 ![image](https://user-images.githubusercontent.com/92281453/231516805-0c9935e5-1804-44a8-b5ff-af4dc6b9c741.png) ![image](https://user-images.githubusercontent.com/92281453/231516855-5e425d30-7bdd-40f1-b74f-69fefd4d4c4b.png)
